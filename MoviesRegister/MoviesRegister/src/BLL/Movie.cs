@@ -17,6 +17,7 @@ namespace MoviesRegister.BLL
         private string _Title;
         private Decimal _Vote_average;
         private string _Overview;
+        private string _Tagline;
         #endregion
 
         #region Constructors
